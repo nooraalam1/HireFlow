@@ -1,1 +1,2 @@
-# HireFlow - Recruitment & Applicant Tracking SaaS
+# HireFlow - Recruitment & Applicant Tracking Service
+
